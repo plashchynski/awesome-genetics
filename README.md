@@ -12,6 +12,9 @@ A curated list of awesome genetics software and libraries.
 ### Tools
 * [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset
 
+### Online services
+* [varsome.com](https://varsome.com/) — The Human Genomic Variant Search Engine
+
 ## Health
 ### Online services
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA test raw data
