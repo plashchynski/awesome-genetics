@@ -10,7 +10,7 @@ A curated list of awesome genetics software and libraries.
 * [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) — Convert a 23andme raw file to [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (Perl)
 
 ### Tools
-* [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset
+* [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset [home page](https://www.cog-genomics.org/plink/)
 * [23andMe/seqseek](https://github.com/23andMe/seqseek) — Easy access to human reference genome sequences (Python)
 
 ### Online services
