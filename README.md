@@ -4,11 +4,11 @@ A curated list of awesome genetics software and libraries.
 ## Essentials
 
 ### File formats
-* [vcftools/vcftools](https://github.com/vcftools/vcftools) — A set of tools written in Perl and C++ for working with VCF files
+* [vcftools/vcftools](https://github.com/vcftools/vcftools) — A set of tools written in Perl and C++ for working with [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) files
 * [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) — Convert a 23andme raw file to [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format)
 
 ### Tools
-* [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — PLINK association analysis toolset
+* [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset
 
 ## Genetic genealogy
 
