@@ -5,13 +5,11 @@ A curated list of awesome genetics software and libraries.
 ### Knowledge
 * [SNPedia](http://snpedia.org/) — is a wiki investigating human genetics.
 
-### File formats
-* [vcftools/vcftools](https://github.com/vcftools/vcftools) — A set of tools written in Perl and C++ for working with [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) files
-* [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) — Convert a 23andme raw file to [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (Perl)
-
 ### Offline Tools
 * [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset [home page](https://www.cog-genomics.org/plink/)
 * [23andMe/seqseek](https://github.com/23andMe/seqseek) — Easy access to human reference genome sequences (Python)
+* [vcftools/vcftools](https://github.com/vcftools/vcftools) — A set of tools written in Perl and C++ for working with [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) files
+* [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) — Convert a 23andme raw file to [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (Perl)
 
 ### Online tools
 * [varsome.com](https://varsome.com/) — The Human Genomic Variant Search Engine
@@ -24,12 +22,11 @@ A curated list of awesome genetics software and libraries.
 ## Genetic genealogy
 ### Knowledge
 * [ISOGG Wiki](https://isogg.org/wiki/Wiki_Welcome_Page) — International Society of Genetic Genealogy Wiki
-
-### Haplogroups
-* [23andMe/yhaplo](https://github.com/23andMe/yhaplo) — Identifying Y-chromosome haplogroups in arbitrarily large samples of sequenced or genotyped men (Python)
+* [Beginners guide to genetic genealogy](https://sites.google.com/site/wheatonsurname/beginners-guide-to-genetic-genealogy)
 
 ### Offline tools
 * [apriha/lineage](https://github.com/apriha/lineage) — Tools for genetic genealogy and the analysis of consumer DNA test results (Python)
+* [23andMe/yhaplo](https://github.com/23andMe/yhaplo) — Identifying Y-chromosome haplogroups in arbitrarily large samples of sequenced or genotyped men (Python)
 
 ### Online tools
 * [GEDmatch](https://www.gedmatch.com/) — GEDmatch is a free online toolset to compare autosomal DNA data files
