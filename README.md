@@ -3,7 +3,8 @@ A curated list of awesome genetics software and libraries.
 
 ## Essentials
 ### Knowledge
-* [SNPedia](http://snpedia.org/) — is a wiki investigating human genetics.
+* [SNPedia](http://snpedia.org/) — A wiki investigating human genetics.
+* [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) — Coursera's introductory course to the field of bioinformatics
 
 ### Offline Tools
 * [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset [home page](https://www.cog-genomics.org/plink/)
