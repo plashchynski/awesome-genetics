@@ -1,5 +1,5 @@
 # awesome-genetics
-A curated list of awesome genetics software and libraries.
+A curated list of awesome bioinformatics software and libraries.
 
 ## Essentials
 ### Knowledge
