@@ -6,6 +6,7 @@ A curated list of awesome bioinformatics software and libraries.
 * [SNPedia](http://snpedia.org/) — A wiki investigating human genetics.
 * [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) — Coursera's introductory course to the field of bioinformatics
 
+
 ### Offline Tools
 * [chrchang/plink-ng](https://github.com/chrchang/plink-ng) — [PLINK](https://en.wikipedia.org/wiki/PLINK_(genetic_tool-set)) association analysis toolset [home page](https://www.cog-genomics.org/plink/)
 * [vcftools/vcftools](https://github.com/vcftools/vcftools) — A set of tools written in Perl and C++ for working with [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) files
@@ -18,6 +19,9 @@ A curated list of awesome bioinformatics software and libraries.
 * [varsome.com](https://varsome.com/) — The Human Genomic Variant Search Engine
 
 ## Health and traits
+### Knowledge
+* [Genetics Home Reference](https://ghr.nlm.nih.gov/) — consumer-friendly information about the effects of genetic variation on human health.
+
 ### Online tools
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA test raw data
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on current literature (paid)
