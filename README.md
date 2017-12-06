@@ -35,3 +35,4 @@ A curated list of awesome bioinformatics software and libraries.
 * [GEDmatch](https://www.gedmatch.com/) — GEDmatch is a free online toolset to compare autosomal DNA data files
 * [DNA.Land](https://dna.land/) — The site offers a biogeographical analysis, imputation and a relative-matching feature
 * [David Pike's Tools](http://www.math.mun.ca/~dapike/FF23utils/) — Utilities for analysing raw DNA data (JS)
+* [Shared cM Project](https://dnapainter.com/tools/sharedcmv4) — Visualize relationship probabilities based on centimorgans
