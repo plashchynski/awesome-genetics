@@ -5,6 +5,7 @@ A curated list of awesome bioinformatics software and libraries.
 ### Knowledge
 * [SNPedia](http://snpedia.org/) — A wiki investigating human genetics.
 * [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) — Coursera's introductory course to the field of bioinformatics
+* [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) — advances science and health by providing access to biomedical and genomic information.
 
 
 ### Offline Tools
