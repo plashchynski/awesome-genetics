@@ -1,11 +1,11 @@
 # awesome-genetics
-A curated list of awesome bioinformatics software and libraries.
+A curated list of awesome bioinformatics software and libraries
 
 ## Essentials
 ### Knowledge
 * [SNPedia](http://snpedia.org/) — A wiki investigating human genetics.
 * [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) — Coursera's introductory course to the field of bioinformatics
-* [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) — advances science and health by providing access to biomedical and genomic information.
+* [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) — advances science and health by providing access to biomedical and genomic information
 
 
 ### Offline Tools
@@ -21,11 +21,11 @@ A curated list of awesome bioinformatics software and libraries.
 
 ## Health and traits
 ### Knowledge
-* [Genetics Home Reference](https://ghr.nlm.nih.gov/) — consumer-friendly information about the effects of genetic variation on human health.
+* [Genetics Home Reference](https://ghr.nlm.nih.gov/) — consumer-friendly information about the effects of genetic variation on human health
 
 ### Online tools
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA test raw data
-* [Promethease](http://promethease.com/) — Generates health and trait reports based on current literature (paid)
+* [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
 
 ## Genetic genealogy
 ### Knowledge
