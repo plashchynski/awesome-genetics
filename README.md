@@ -24,8 +24,9 @@ A curated list of awesome bioinformatics software and libraries
 * [Genetics Home Reference](https://ghr.nlm.nih.gov/) — consumer-friendly information about the effects of genetic variation on human health
 
 ### Online tools
-* [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA test raw data
+* [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA raw files.
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
+* [Genomelink](https://genomelink.io/) — Health and traits reports based on DNA raw files.
 
 ## Genetic genealogy
 ### Knowledge
@@ -41,3 +42,7 @@ A curated list of awesome bioinformatics software and libraries
 * [DNA.Land](https://dna.land/) — The site offers a biogeographical analysis, imputation and a relative-matching feature
 * [David Pike's Tools](http://www.math.mun.ca/~dapike/FF23utils/) — Utilities for analysing raw DNA data (JS)
 * [Shared cM Project](https://dnapainter.com/tools/sharedcmv4) — Visualize relationship probabilities based on centimorgans
+
+### Education and courses
+* [Harvard Medical School Online](https://onlinelearning.hms.harvard.edu/hmx/)
+* [Introduction to Biology - The Secret of Life by Edx](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
