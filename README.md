@@ -2,10 +2,12 @@
 A curated list of awesome bioinformatics software and libraries
 
 ## Essentials
-### Knowledge
+### Education and courses
 * [SNPedia](http://snpedia.org/) — A wiki investigating human genetics.
 * [Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) — Coursera's introductory course to the field of bioinformatics
 * [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) — advances science and health by providing access to biomedical and genomic information
+* [Harvard Medical School Online](https://onlinelearning.hms.harvard.edu/hmx/)
+* [Introduction to Biology - The Secret of Life by Edx](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
 
 
 ### Offline Tools
@@ -42,7 +44,3 @@ A curated list of awesome bioinformatics software and libraries
 * [DNA.Land](https://dna.land/) — The site offers a biogeographical analysis, imputation and a relative-matching feature
 * [David Pike's Tools](http://www.math.mun.ca/~dapike/FF23utils/) — Utilities for analysing raw DNA data (JS)
 * [Shared cM Project](https://dnapainter.com/tools/sharedcmv4) — Visualize relationship probabilities based on centimorgans
-
-### Education and courses
-* [Harvard Medical School Online](https://onlinelearning.hms.harvard.edu/hmx/)
-* [Introduction to Biology - The Secret of Life by Edx](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
