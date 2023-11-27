@@ -48,7 +48,7 @@ A curated list of awesome bioinformatics software and libraries
 ## Additional Geneology Researh Resources
 
 ### Books
-*[Passenger lists of ships coming to North America, 1607-1825](https://archive.org/details/passengerlistsof00lanc/page/8/mode/2up) - list of ships
+* [Passenger lists of ships coming to North America, 1607-1825](https://archive.org/details/passengerlistsof00lanc/page/8/mode/2up) - list of ships
 * [Passenger and immigration lists index](https://archive.org/details/passengerimmigra0000filb/mode/2up) - A guide to published arrival records of 300,000 passengers who came to the United States and Canada in the seventeenth, eighteenth, and nineteenth centuries
 * [Cavaliers and Pioneers A CALENDAR OF VIRGINIA LAND GRANTS 1800 Vol. I. No. 1.](https://archive.org/details/cavalierspioneer1135nuge/mode/2up) - Virginia Land Grants
 * [Cavaliers and Pioneers A CALENDAR OF VIRGINIA LAND GRANTS 1800 Vol. I. No. 4 - PDF](https://ia600604.us.archive.org/6/items/cavalierspioneer14nuge/cavalierspioneer14nuge.pdf) - Virgina Land Grants
@@ -59,13 +59,13 @@ A curated list of awesome bioinformatics software and libraries
 #### United States
 
 #### State Archieve Searches
-* [Illinois: ](https://www.ilsos.gov/departments/archives/home.html)
-* [Maryland: ](https://query.msa.maryland.gov/texis/search/)
-* [Massachusetts: ](http://digitalarchives.sec.state.ma.us/)
-* [North Carolina: ](https://archives.ncdcr.gov/)
-* [South Carolina: ](http://www.usgwarchives.net/search/search.cgi/searchsc.htm)
-* [Tennessee: ](https://tslaindexes.tn.gov/)
-* [Virginia: ](https://lva.primo.exlibrisgroup.com/discovery/search)
+* [Illinois](https://www.ilsos.gov/departments/archives/home.html)
+* [Maryland](https://query.msa.maryland.gov/texis/search/)
+* [Massachusetts](http://digitalarchives.sec.state.ma.us/)
+* [North Carolina](https://archives.ncdcr.gov/)
+* [South Carolina](http://www.usgwarchives.net/search/search.cgi/searchsc.htm)
+* [Tennessee](https://tslaindexes.tn.gov/)
+* [Virginia](https://lva.primo.exlibrisgroup.com/discovery/search)
 
 
 
