@@ -1,5 +1,5 @@
 # awesome-genetics
-A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) software, libraries, and educational resources.
+A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) and [genetic genealogy](https://en.wikipedia.org/wiki/Genetic_genealogy) software, libraries, and educational resources.
 
 ## Essentials
 ### Education and courses
