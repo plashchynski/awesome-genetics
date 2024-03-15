@@ -8,6 +8,7 @@ A curated list of awesome bioinformatics software and libraries
 * [The National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/) — advances science and health by providing access to biomedical and genomic information
 * [Harvard Medical School Online](https://onlinelearning.hms.harvard.edu/hmx/)
 * [Introduction to Biology - The Secret of Life by Edx](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
+* [Path to a free self-taught education in Bioinformatics](https://github.com/ossu/bioinformatics)
 
 
 ### Offline Tools
