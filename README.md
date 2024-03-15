@@ -1,5 +1,5 @@
 # awesome-genetics
-A curated list of awesome bioinformatics software and libraries
+A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Personal_genomics) software, libraries, and educational resources.
 
 ## Essentials
 ### Education and courses
