@@ -26,6 +26,9 @@ A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Pers
 ### Knowledge
 * [Genetics Home Reference](https://ghr.nlm.nih.gov/) — consumer-friendly information about the effects of genetic variation on human health
 
+### Offline tools
+* [shmlkv/dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) — Personal genome analysis toolkit that analyzes raw DNA data across 17 categories and generates a terminal-style HTML dashboard (Python)
+
 ### Online tools
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA raw files.
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
