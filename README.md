@@ -30,6 +30,7 @@ A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Pers
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA raw files.
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
 * [Genomelink](https://genomelink.io/) — Health and traits reports based on DNA raw files.
+* [DeepDNA](https://deepdna.ai) — European AI-powered platform for analyzing raw DNA data (23andMe, AncestryDNA). Health, nutrition, and pharmacogenomic insights. GDPR-compliant, EU servers only.
 
 ## Genetic genealogy
 ### Knowledge
