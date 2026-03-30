@@ -18,6 +18,7 @@ A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Pers
 * [samtools/samtools](https://github.com/samtools/samtools) — Utilities for the [Sequence Alignment/Map (SAM)](https://en.wikipedia.org/wiki/SAM_(file_format)) format by [HTSlib](http://www.htslib.org/)
 * [arrogantrobot/23andme2vcf](https://github.com/arrogantrobot/23andme2vcf) — Convert a 23andme raw file to [VCF](https://en.wikipedia.org/wiki/Variant_Call_Format) (Perl)
 * [23andMe/seqseek](https://github.com/23andMe/seqseek) — Easy access to human reference genome sequences (Python)
+* [GeiserX/genomics-pipeline](https://github.com/GeiserX/genomics-pipeline) — A 27-step WGS analysis pipeline for personal genomics on consumer hardware, fully Dockerized [docs](https://geiserx.github.io/genomics-pipeline)
 
 ### Online tools
 * [varsome.com](https://varsome.com/) — The Human Genomic Variant Search Engine
