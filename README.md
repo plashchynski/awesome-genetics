@@ -30,7 +30,7 @@ A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Pers
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA raw files.
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
 * [Genomelink](https://genomelink.io/) — Health and traits reports based on DNA raw files.
-* [HPO Explorer](https://hpoexplorer.com) — Browses the full Human Phenotype Ontology (~19,800 terms) and analyzes a list of symptoms or a pasted clinical note for phenotype similarity, differential diagnosis, and candidate gene prioritization. Free, open-source, no DNA file required.
+* [HPO Explorer](https://hpoexplorer.com) — Browses the full Human Phenotype Ontology (~19,800 terms) and analyzes a list of symptoms or a pasted clinical note for phenotype similarity, differential diagnosis, and candidate gene prioritization. Free to use, no DNA file required.
 
 ## Genetic genealogy
 ### Knowledge
