@@ -30,6 +30,7 @@ A curated list of awesome [personal genomics](https://en.wikipedia.org/wiki/Pers
 * [Codegen](https://codegen.eu/) — A free comprehensive health report using consumer DNA raw files.
 * [Promethease](http://promethease.com/) — Generates health and trait reports based on [SNPedia](http://snpedia.org/) (paid)
 * [Genomelink](https://genomelink.io/) — Health and traits reports based on DNA raw files.
+* [DNAHelper](https://dnahelper.com/) — Privacy-conscious trait analysis of existing consumer DNA raw files (23andMe, AncestryDNA, MyHeritage); free browser-based tools included.
 
 ## Genetic genealogy
 ### Knowledge
